@@ -1,6 +1,6 @@
 {
     "name": "stanubusiness/laravel-meta-attributes",
-    "description": "Add meta attributes to Eloquent models",
+    "description": "Pakcage forked from nncodes/laravel-meta-attributes. Add meta attributes to Eloquent models",
     "keywords": [
         "nncodes",
         "laravel-meta-attributes"
