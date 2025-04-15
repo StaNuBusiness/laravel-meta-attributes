@@ -5,7 +5,7 @@
         "nncodes",
         "laravel-meta-attributes"
     ],
-    "homepage": "https://github.com/99codes/laravel-meta-attributes",
+    "homepage": "https://github.com/StaNuBusiness/laravel-meta-attributes",
     "license": "MIT",
     "authors": [
         {
@@ -25,7 +25,6 @@
         "illuminate/contracts": "^9.0|^10.0|^11.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0|^5.0|^6.0",
         "phpunit/phpunit": "^8.0|^9.0|^10.4|^11.5"
     },
     "autoload": {
